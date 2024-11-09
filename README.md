@@ -1,7 +1,7 @@
 # thangnguyen.github.io
-git clone https://github.com/username/username.github.io
+git clone https://github.com/username/thangnguyen.github.io
 
-cd username.github.io
+cd thangnguyen.github.io
 
 echo "Hello World" > index.html
 
